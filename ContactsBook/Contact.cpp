@@ -1,3 +1,4 @@
+#include "framework.h"
 #include "Contact.h"
 
 Contact::Contact(): name("-"), city("-"), number("-")
